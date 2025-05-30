@@ -1,0 +1,1 @@
+export 'love_info_extension.dart';
